@@ -1,0 +1,25 @@
+testinfo:
+    - id: test001
+      title: 启动app后，进入大搜索
+      info: 打开app，进入大搜到
+testcase:
+    - element_info: com.kongfz.app:id/ll_search
+      find_type: id
+      operate_type: click
+      info: 点击首页大搜索
+    - element_info: com.kongfz.app:id/et_search
+      find_type: id
+      operate_type: press_key_code("红楼梦")
+      info: 输入
+
+#    - element_info: com.huawei.works.knowledge:id/vdr_fav
+#      find_type: id
+#      is_webview: 2 # 切换到native
+#      operate_type: click
+#      info: 点击取消收藏按钮
+
+check:
+    - element_info: com.kongfz.app:id/tv_good
+      find_type: id
+      check: default_check
+      info: 打开页面成功

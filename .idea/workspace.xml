@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddb0de69-ad6e-4042-9b9f-25fcf6c5fbf9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/appium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/appium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base/BaseApk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/BaseApk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/sum.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Log/sum.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Report.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Report.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runner/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Runner/runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yamls/home/firstOpen.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/yamls/home/firstOpen.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="appium" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectId" id="1VgvdFySmFoOOhQhzYZ4XjdXj7U" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyTypeCheckerInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\demo\appium\PageObject\Home" />
+      <recent name="D:\app\appium\yaml" />
+      <recent name="D:\app\appium\test" />
+      <recent name="D:\app\appium\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\demo\appium\app" />
+      <recent name="E:\demo\appium\PageObject\Home" />
+      <recent name="E:\demo\appium\Base" />
+      <recent name="E:\demo\appium" />
+      <recent name="E:\demo\appium\yaml" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.BaseYaml">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="appium" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="BaseApk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/BaseApk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BaseYaml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/BaseYaml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runner (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Runner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Runner/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runner/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Runner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Runner/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittest AndroidTests.test_plus" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Runner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Runner/test.py" />
+      <option name="CLASS_NAME" value="AndroidTests" />
+      <option name="METHOD_NAME" value="test_plus" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Runner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.runner" />
+      <item itemvalue="Python.BaseApk" />
+      <item itemvalue="Python.runner (1)" />
+      <item itemvalue="Python tests.Unittest AndroidTests.test_plus" />
+      <item itemvalue="Python.BaseYaml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BaseYaml" />
+        <item itemvalue="Python.runner (1)" />
+        <item itemvalue="Python.BaseApk" />
+        <item itemvalue="Python.runner" />
+        <item itemvalue="Python tests.Unittest AndroidTests.test_plus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddb0de69-ad6e-4042-9b9f-25fcf6c5fbf9" name="Default" comment="" />
+      <created>1495681351908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495681351908</updated>
+      <workItem from="1577687639698" duration="10782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest_AndroidTests_test_plus - 2018.05.03 at 23h 24m 14s.xml">
+      <configuration name="Unittest AndroidTests.test_plus" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_AndroidTests_test_plus - 2018.05.03 at 23h 24m 33s.xml">
+      <configuration name="Unittest AndroidTests.test_plus" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_AndroidTests_test_plus - 2018.05.03 at 23h 30m 36s.xml">
+      <configuration name="Unittest AndroidTests.test_plus" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_2_py - 2017.05.27 at 18h 07m 35s.xml">
+      <configuration name="Unittests in 2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_2_py - 2017.05.27 at 18h 07m 39s.xml">
+      <configuration name="Unittests in 2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_2_py - 2017.05.27 at 18h 08m 22s.xml">
+      <configuration name="Unittests in 2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_2_py - 2017.05.27 at 18h 09m 37s.xml">
+      <configuration name="Unittests in 2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_2_py - 2017.05.27 at 18h 10m 50s.xml">
+      <configuration name="Unittests in 2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_2_py - 2017.05.27 at 18h 10m 53s.xml">
+      <configuration name="Unittests in 2.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.yaml" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1228" height="192" key="GridCell.Tab.0.bottom" timestamp="1577755821068">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="192" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1577755821068" />
+    <state width="717" height="192" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1577690902345" />
+    <state width="1228" height="192" key="GridCell.Tab.0.center" timestamp="1577755821066">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="192" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1577755821066" />
+    <state width="717" height="192" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1577690902344" />
+    <state width="1228" height="192" key="GridCell.Tab.0.left" timestamp="1577755821063">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="192" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1577755821063" />
+    <state width="717" height="192" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1577690902343" />
+    <state width="1228" height="192" key="GridCell.Tab.0.right" timestamp="1577755821067">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="192" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1577755821067" />
+    <state width="717" height="192" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1577690902344" />
+    <state width="1228" height="188" key="GridCell.Tab.1.bottom" timestamp="1577701267393">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="188" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1577701267393" />
+    <state width="1228" height="188" key="GridCell.Tab.1.center" timestamp="1577701267392">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="188" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1577701267392" />
+    <state width="1228" height="188" key="GridCell.Tab.1.left" timestamp="1577701267391">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="188" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1577701267391" />
+    <state width="1228" height="188" key="GridCell.Tab.1.right" timestamp="1577701267392">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="188" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1577701267392" />
+    <state x="406" y="53" key="RollbackChangesDialog" timestamp="1577758546677">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="406" y="53" key="RollbackChangesDialog/0.0.1280.800@0.0.1280.800" timestamp="1577758546677" />
+    <state x="25" y="0" key="SettingsEditor" timestamp="1577687691702">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="25" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1577687691702" />
+    <state x="44" y="153" width="844" height="616" key="find.popup" timestamp="1577758818346">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="44" y="153" width="844" height="616" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1577758818346" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Base/BaseApk.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Base/BaseApk.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/appium$runner__1_.coverage" NAME="runner (1) Coverage Results" MODIFIED="1577692810792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runner" />
+    <SUITE FILE_PATH="coverage/appium$BaseYaml.coverage" NAME="BaseYaml Coverage Results" MODIFIED="1577704347747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+    <SUITE FILE_PATH="coverage/appium$BaseApk.coverage" NAME="BaseApk Coverage Results" MODIFIED="1577690890303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>appium</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
