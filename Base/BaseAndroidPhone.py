@@ -13,7 +13,7 @@ def getPhoneInfo(devices):
     print(cmd)
     # phone_info = os.popen(cmd).readlines()
     phone_info = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout.readlines()
-    result = {"release": "5.0", "model": "model2", "brand": "brand1", "device": "device1"}
+    result = {"release": "7.0", "model": "model2", "brand": "brand1", "device": "device1"}
     release = "ro.build.version.release=" # 版本
     model = "ro.product.model=" #型号
     brand = "ro.product.brand=" # 品牌
@@ -46,6 +46,7 @@ def get_men_total(devices):
         if line.find(men_total_str) >= 0:
             men_total = line[len(men_total_str) +1:].replace("kB", "").strip()
             break
+    print(int(men_total))
     return int(men_total)
 # 得到几核cpu
 def get_cpu_kel(devices):
@@ -56,6 +57,7 @@ def get_cpu_kel(devices):
     for line in get_cmd:
         if line.find(find_str) >= 0:
             int_cpu += 1
+    print(str(int_cpu) + "核")
     return str(int_cpu) + "核"
 
 # 得到手机分辨率
@@ -64,4 +66,7 @@ def get_app_pix(devices):
     return result.readline().split("Physical size:")[1]
 
 if __name__=="__main__":
-    getPhoneInfo("DU2TAN15AJ049163")
+    # get_app_pix("CLB0218519009603")
+    getPhoneInfo("CLB0218519009603")
+    get_cpu_kel("CLB0218519009603")
+    get_men_total("CLB0218519009603")
